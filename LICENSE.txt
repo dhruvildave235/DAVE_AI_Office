@@ -1,0 +1,37 @@
+DAVE AI Office — Early Access Licence
+Copyright (c) 2026 Dhruvil Dave. All rights reserved.
+Version 1.0.0 — 2 October 2026
+This is an early build, shared for people to try.
+
+YOU MAY
+  - install and run it on your own computers, for anything you like;
+  - keep whatever it makes for you. Work produced with your own API keys is
+    yours, and I claim nothing in it.
+
+YOU MAY NOT
+  - sell it, or host your own copy of the installer. Share the download page
+    instead, so everyone gets the current build and the security updates;
+  - reuse the artwork, the characters, the logo or the name "DAVE AI Office"
+    in anything else.
+
+THIRD-PARTY PARTS keep their own licences: the open-source libraries DAVE is
+built on. The full list and their licences are on the website, under
+Licence & ownership. They are not mine.
+
+NO WARRANTY. This is early software, provided "as is". It can be wrong, and it
+can fail. You are responsible for checking its output before you rely on it,
+and for whatever your AI provider charges you through it.
+
+LIABILITY. To the extent the law allows, I am not liable for lost work, lost
+profit, provider charges, or any other loss arising from using this software.
+
+WHAT HAPPENS NEXT. This early access licence will be replaced by a full one.
+I intend to open the Classic office's source code under the MIT licence once
+the first users have shaped it. The artwork, the characters, the logo and the
+name "DAVE AI Office" are not code and stay with me either way, under any
+future licence.
+
+This licence applies to this build. A later build may carry different terms;
+nothing here is taken away from a copy you already have.
+
+Questions: daveaioffice@gmail.com
