@@ -33,6 +33,8 @@ You give one sentence. Six specialists pass the work desk to desk — and you wa
 
 ---
 
+<img src="Img/appimg.png" alt="DAVE AI Office" width="100%">
+
 ## What it is
 
 Most AI tools hand you one assistant and a wall of text, then ask you to trust
