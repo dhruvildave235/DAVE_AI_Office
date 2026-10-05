@@ -12,7 +12,7 @@ You give one sentence. Six specialists pass the work desk to desk — and you wa
 
 <br>
 
-[![Download](https://img.shields.io/badge/⤓_Download_for_Windows-3a9bf4?style=for-the-badge)](../../releases/latest)
+[![Download](https://img.shields.io/badge/⤓_Download_for_Windows-3a9bf4?style=for-the-badge)](https://dave-ai-office.netlify.app/#/download)
 [![Guide](https://img.shields.io/badge/5_minute_guide-0c1420?style=for-the-badge)](https://YOURSITE.com/start.html)
 
 ![version](https://img.shields.io/badge/version-1.0.0-3a9bf4)
@@ -506,7 +506,7 @@ product of** any of them.
 
 <br>
 
-<a href="../../releases/latest">
+<a href="https://dave-ai-office.netlify.app/#/download">
   <img 
     src="https://img.shields.io/badge/_DOWNLOAD_NOW-3a9bf4?style=for-the-badge"
     alt="Download Free"
