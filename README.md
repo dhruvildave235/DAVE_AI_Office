@@ -496,7 +496,7 @@ product of** any of them.
 
 <div align="center">
 
-<br>
+<img src="Img/main logo.png" alt="DAVE AI Office" width="10%">
 
 ## Open your office tonight.
 
