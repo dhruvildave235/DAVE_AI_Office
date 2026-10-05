@@ -498,7 +498,7 @@ product of** any of them.
 
 <br>
 
-# Open your office tonight.
+## Open your office tonight.
 
 ### Six specialists are already at their desks, waiting for a job.
 
@@ -513,6 +513,6 @@ product of** any of them.
 </a>
 <br>
 
-# **© 2026 Dhruvil Dave · Runs on your computer · Your keys, your bill, your data**
+### **© 2026 Dhruvil Dave · Runs on your computer · Your keys, your bill, your data**
 
 </div>
