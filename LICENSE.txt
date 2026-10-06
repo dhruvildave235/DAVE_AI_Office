@@ -1,6 +1,7 @@
 DAVE AI Office — Early Access Licence
 Copyright (c) 2026 Dhruvil Dave. All rights reserved.
 2 October 2026
+
 This is an early build, shared for people to try.
 
 YOU MAY
