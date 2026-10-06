@@ -12,10 +12,10 @@ You give one sentence. Six specialists pass the work desk to desk — and you wa
 
 <br>
 
-[![Download](https://img.shields.io/badge/⤓_Download_for_Windows-3a9bf4?style=for-the-badge)](https://dave-ai-office.netlify.app/#/download)
-[![Guide](https://img.shields.io/badge/5_minute_guide-0c1420?style=for-the-badge)](https://YOURSITE.com/start.html)
+[![Download](https://img.shields.io/badge/_Download_Now-3a9bf4?style=for-the-badge)](https://dave-ai-office.netlify.app/#/download)
+[![Guide](https://img.shields.io/badge/5_minute_guide-0c1420?style=for-the-badge)](https://dave-ai-office.netlify.app/start.html)
 
-![version](https://img.shields.io/badge/version-1.0.0-3a9bf4)
+![version](https://img.shields.io/badge/version-1.0.1-3a9bf4)
 ![platform](https://img.shields.io/badge/Windows-10_|_11-3a9bf4)
 ![price](https://img.shields.io/badge/price-free-7ee08a)
 ![telemetry](https://img.shields.io/badge/telemetry-none-7ee08a)
@@ -84,6 +84,11 @@ No key, no answer. A file cut off halfway fails rather than arriving broken.
 </td>
 </tr>
 </table>
+
+**New in 1.0.1 — PowerPoint, actually written.** Ask for a presentation and a
+real `.pptx` lands in your folder: not an essay about one, and not a script you
+have to run yourself. QA then opens the file and counts the slides, so a deck
+that is short or empty fails before it reaches you.
 
 ---
 
@@ -267,7 +272,7 @@ stops and says so, instead of quietly running up your bill.
 <table>
 <tr><td width="52" align="center"><b>01</b></td><td>
 
-Download **[DAVE-Setup-v1.0.0.exe](../../releases/latest)**
+Download **[DAVE-Setup.exe](../../releases/latest)**
 
 </td></tr>
 <tr><td align="center"><b>02</b></td><td>
@@ -390,9 +395,9 @@ laptop stays usable while the office runs.
 | | | |
 |---|---|---|
 | ✅ | **1.0 — the office** | Live floor, the relay, QA and review, programmable roles, memory, lessons, reports, the map |
-| ◐ | **1.1 — polish** | Update notifications, a settings panel, the data folder movable after setup |
+| ◐ | **1.1 — open source** | The Classic office's source under MIT, plus update notifications and a settings panel |
 | ○ | **macOS and Linux** | The code is already cross-platform; the installers are the work |
-| ○ | **More formats** | Word and Excel, read and written properly |
+| ○ | **More formats** | Word and Excel, read and written properly. PowerPoint is done |
 | ○ | **Pro — always on** | A cloud office that keeps working with your PC switched off, opt-in per job |
 | ○ | **Pro — on your phone** | Send a job from anywhere, read the result later |
 | ○ | **Teams** | Each person keeps their own office and their own keys; the offices pass work between themselves |
@@ -415,7 +420,9 @@ Every one of these is a choice or a date, not a surprise.
   clock.
 - **It reads text, code, CSV and PDF.** Word and Excel are on the list. Until
   then it says so plainly rather than half-reading them.
-- **It cannot write .pptx, .docx or .xlsx directly.** It delivers a script that
+- **It writes PowerPoint, but not Word, Excel or PDF.** Ask for a presentation
+  and a real `.pptx` is written. For the others it says so plainly and delivers
+  a script that makes the file instead.
   makes the file, and tells you that is what it did.
 - **It says "I can't read images" instead of guessing.** A wrong description of
   your photo is worse than an honest no.
@@ -481,6 +488,7 @@ Open source that made this possible, each under its own licence:
 [Starlette](https://www.starlette.io) · [Uvicorn](https://www.uvicorn.org) ·
 [httpx](https://www.python-httpx.org) · [Pydantic](https://pydantic.dev) ·
 [cryptography](https://cryptography.io) · [pypdf](https://pypdf.readthedocs.io) ·
+[python-pptx](https://python-pptx.readthedocs.io) · [Pillow](https://python-pillow.org) ·
 [pywebview](https://pywebview.flowrl.com) ·
 [PyInstaller](https://pyinstaller.org)
 
