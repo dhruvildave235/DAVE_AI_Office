@@ -390,22 +390,6 @@ laptop stays usable while the office runs.
 
 ---
 
-## Roadmap
-
-| | | |
-|---|---|---|
-| ✅ | **1.0 — the office** | Live floor, the relay, QA and review, programmable roles, memory, lessons, reports, the map |
-| ◐ | **1.1 — open source** | The Classic office's source under MIT, plus update notifications and a settings panel |
-| ○ | **macOS and Linux** | The code is already cross-platform; the installers are the work |
-| ○ | **More formats** | Word and Excel, read and written properly. PowerPoint is done |
-| ○ | **Pro — always on** | A cloud office that keeps working with your PC switched off, opt-in per job |
-| ○ | **Pro — on your phone** | Send a job from anywhere, read the result later |
-| ○ | **Teams** | Each person keeps their own office and their own keys; the offices pass work between themselves |
-
-Dates are deliberately absent. They would be guesses.
-
----
-
 <details>
 <summary><b>What it does not do — and why</b></summary>
 
