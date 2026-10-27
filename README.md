@@ -463,25 +463,6 @@ drawn by code, shape by shape, while the app runs. The project contains no
 sprite sheet.
 
 ---
-
-## Built with
-
-Open source that made this possible, each under its own licence:
-
-**Backend** — [FastAPI](https://fastapi.tiangolo.com) ·
-[Starlette](https://www.starlette.io) · [Uvicorn](https://www.uvicorn.org) ·
-[httpx](https://www.python-httpx.org) · [Pydantic](https://pydantic.dev) ·
-[cryptography](https://cryptography.io) · [pypdf](https://pypdf.readthedocs.io) ·
-[python-pptx](https://python-pptx.readthedocs.io) · [Pillow](https://python-pillow.org) ·
-[pywebview](https://pywebview.flowrl.com) ·
-[PyInstaller](https://pyinstaller.org)
-
-**Interface** — [React](https://react.dev) ·
-[TypeScript](https://www.typescriptlang.org) · [Vite](https://vite.dev) ·
-[Zustand](https://zustand-demo.pmnd.rs)
-
-**Installer** — [Inno Setup](https://jrsoftware.org/isinfo.php)
-
 AI providers and coding tools named in this project are the property of their
 owners. DAVE works with them; it is **not affiliated with, endorsed by, or a
 product of** any of them.
